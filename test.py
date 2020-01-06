@@ -63,8 +63,6 @@ off_r = 0
 #组合开始位置
 l = 0
 r = 0
-r_o = r
-l_o = l
 l_f = l + off_l
 r_f = r + off_r
 h_v = 1#水平实验为1，垂直为0
